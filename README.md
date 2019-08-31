@@ -19,6 +19,3 @@ $ pip install -r requirements.txt
 
 ## How to use
 ![example](https://github.com/chirag11032000/cf-masher/blob/master/example.png)
-
-
-_Happy problem solving :)_
