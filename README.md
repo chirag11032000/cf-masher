@@ -7,4 +7,15 @@ Well, if so, you might have faced the issue that some of cf problems have alread
 **cf-masher** is here to fix that issue now.
 
 
-## Screenshot
+## How to install
+```bash
+$ git clone https://github.com/chirag11032000/cf-masher.git 
+$ cd cf-masher
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
+
+
+## How to use
+![example](https://github.com/chirag11032000/cf-masher/blob/master/example.png)
